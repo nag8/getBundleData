@@ -1,0 +1,2 @@
+# getBundleData
+ bundleからのデータを取得
