@@ -1,6 +1,3 @@
-const TOKEN = 'XXXXXX';
-const URL_API = 'https://XXXXX.bundle.jp/api/v1';
-
 function main(){
   const memberList = getMemberList();
 
